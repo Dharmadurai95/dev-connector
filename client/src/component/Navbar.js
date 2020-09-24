@@ -16,8 +16,7 @@ const Navbar = (props) => {
       <li>
         <NavLink to="/dashboard">
           {""}
-          <i className="fas fa-user"></i>
-          {""}
+          <i className="fas fa-user"></i>{" "}
           <span className="hide-sm">Dashboard</span>
         </NavLink>
       </li>
